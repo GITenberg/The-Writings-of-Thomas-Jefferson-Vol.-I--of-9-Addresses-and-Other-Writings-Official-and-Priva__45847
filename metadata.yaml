@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43489'
     url: http://www.gutenberg.org/2009/agents/43489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45847#The-Writings-of-Thomas-Jefferson-Vol.-I--of-9-Addresses-and-Other-Writings-Official-and-Priva_
 gutenberg_issued: '2014-05-31'
 gutenberg_type: Text
 identifiers:
